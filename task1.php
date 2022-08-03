@@ -4,8 +4,8 @@
 const SPACING_X = 1;
 const SPACING_Y = 0;
 const JOINT_CHAR = '+';
-const LINE_X_CHAR = '-';
 const LINE_Y_CHAR = '|';
+const LINE_X_CHAR = '-';
 
 $table = array(
     array(
